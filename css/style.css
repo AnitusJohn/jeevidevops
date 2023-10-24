@@ -642,7 +642,7 @@ h3 {
 
 .btn_Read_more{
     display: inline-block;
-    color: #df409a;
+    color: #3324e3;
     background: #fff;
     border: 1px solid ;
     font-weight: 700;
@@ -652,7 +652,7 @@ h3 {
 
 .btn_Read_more:hover{
     color: #fff;
-	background: linear-gradient(to left, #df409a, #000000);
+	background: linear-gradient(to left, #3324e3, #000000);
     border: 1px solid#fff;
 }
 
